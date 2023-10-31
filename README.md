@@ -8,7 +8,7 @@
 
 ## Componentes Necessários
 - Arduino UNO (ou similar)
-- Display LCD 16x2 com interface I2C
+- Display LCD 16x2 ou 16X4 com interface I2C
 - Buzzer
 - Botão
 - Resistores, cabos e protoboard para as conexões
