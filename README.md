@@ -1,5 +1,5 @@
 
-### README.md para o Projeto "AMADO Runner"
+### README.md para o Projeto "Stickan Runner"
 
 ---
 
