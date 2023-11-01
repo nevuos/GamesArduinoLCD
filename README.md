@@ -4,7 +4,7 @@
 ---
 
 ## Descrição
-"Stickman Runner" é um jogo simples e divertido projetado para ser executado em um Arduino com um display LCD 16x2 e um botão. No jogo, o jogador controla um personagem (o "herói") que corre continuamente, evitando obstáculos. O objetivo é percorrer a maior distância possível sem colidir com os blocos que aparecem no caminho. O jogo aumenta de dificuldade conforme a distância percorrida, com a velocidade do herói aumentando gradualmente.
+"Stickman Runner" é um jogo simples e divertido projetado para ser executado em um Arduino com um display LCD 16x2 ou 16x4 e um botão. No jogo, o jogador controla um personagem (o "herói") que corre continuamente, evitando obstáculos. O objetivo é percorrer a maior distância possível sem colidir com os blocos que aparecem no caminho. O jogo aumenta de dificuldade conforme a distância percorrida, com a velocidade do herói aumentando gradualmente.
 
 ## Componentes Necessários
 - Arduino UNO (ou similar)
