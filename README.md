@@ -25,6 +25,12 @@
 4. **Jogar:** Pressione o botão para fazer o herói pular sobre os obstáculos. O jogo termina quando o herói colide com um obstáculo.
 5. **Reiniciar:** Após o fim do jogo, aguarde alguns segundos para a tela de Game Over desaparecer, e então pressione o botão para iniciar um novo jogo.
 
+## Download Code And Link Scheme TinkerCad
+O código para este projeto pode ser baixado abaixo:
+[Link para Download do Código](https://github.com/nevuos/StickmanRunnerArduinoLCD/archive/refs/heads/main.zip)
+Scheme TinkerCad
+[Link TinkerCad](https://www.tinkercad.com/things/9EAJ1lxZ3KH)
+
 ## Personalização
 O código é modular e permite fácil personalização. Você pode alterar os sprites dos personagens, a velocidade do jogo, e outros parâmetros para criar uma experiência de jogo única.
 
