@@ -1,4 +1,4 @@
-// Stickman Runner - Jogo para Arduino com LCD 16x2
+// Stickman Runner - Jogo para Arduino com LCD 16x2 ou 16X4
 
 // Inclui a biblioteca para o LCD
 #include <LiquidCrystal_I2C.h>
